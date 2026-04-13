@@ -1,6 +1,6 @@
 🌱 Smart Agriculture IoT Analytics System
 
-📌 Overview
+📌 Overview:
 This project presents a Smart Agriculture IoT Analytics System that integrates real-time data simulation, machine learning, and interactive visualization to support intelligent farming decisions. The system monitors environmental conditions such as soil moisture, temperature, and humidity, and generates insights for irrigation and pest risk management.
 
 🎯 Objectives
@@ -10,7 +10,7 @@ This project presents a Smart Agriculture IoT Analytics System that integrates r
 - Visualize data using a web-based dashboard
 - Generate alerts for irrigation and pest risk
 
-🏗️ System Architecture
+🏗️ System Architecture:
 CSV Dataset → Data Streaming → Backend (Flask) → ML Model → React Dashboard
 
 ⚙️ Technologies Used
@@ -27,7 +27,7 @@ CSV Dataset → Data Streaming → Backend (Flask) → ML Model → React Dashbo
 - Chart libraries
   
 🔹 Machine Learning
-Decision Tree Classifier (Scikit-learn)
+- Decision Tree Classifier (Scikit-learn)
 
 🔹 Data Simulation
 - CSV Dataset
@@ -53,21 +53,20 @@ Decision Tree Classifier (Scikit-learn)
 Output:
 - Irrigation Requirement (Yes/No)
 
-
 🚀 How to Run the Project
-1️⃣ Clone Repository
+1️. Clone Repository
 git clone (https://github.com/Grace422/Smart-Agriculture-IoT-Analytics-System-.git)
 cd your-repo-name
 
-2️⃣ Backend Setup
+2. Backend Setup
 cd backend
 pip install -r requirements.txt
 python app.py
 
-3️⃣ Run Data Streaming
+3️. Run Data Streaming
 python stream_csv.py
 
-4️⃣ Frontend Setup
+4️. Frontend Setup
 cd frontend
 npm install
 npm start
