@@ -54,6 +54,7 @@ Output:
 - Irrigation Requirement (Yes/No)
 
 🚀 How to Run the Project
+
 1️. Clone Repository
 git clone (https://github.com/Grace422/Smart-Agriculture-IoT-Analytics-System-.git)
 cd your-repo-name
