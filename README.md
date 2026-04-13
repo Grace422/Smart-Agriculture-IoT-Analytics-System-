@@ -43,21 +43,24 @@ Decision Tree Classifier (Scikit-learn)
 - Soil Moisture
 - Temperature
 - Humidity
-- 
+ 
 Output:
 - Irrigation Requirement (Yes/No)
 
 
 🚀 How to Run the Project
 1️⃣ Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/Grace422/Smart-Agriculture-IoT-Analytics-System-.git)
 cd your-repo-name
+
 2️⃣ Backend Setup
 cd backend
 pip install -r requirements.txt
 python app.py
+
 3️⃣ Run Data Streaming
 python stream_csv.py
+
 4️⃣ Frontend Setup
 cd frontend
 npm install
